@@ -7,7 +7,7 @@ body {
     margin-right: 5%;
 }
 
-.common-form{
+.common-form {
     text-align: center;
     display: flex;
     margin: auto;
@@ -29,6 +29,10 @@ body {
     cursor: pointer;
 }
 
-.error-p{
+.error-p {
     color: red;
+}
+
+.message-p {
+    color: green;
 }

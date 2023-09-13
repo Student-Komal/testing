@@ -24,5 +24,43 @@
       "email": "raj@test.com",
       "id": 4
     }
+  ],
+  "product": [
+    {
+      "name": "Samsung M45",
+      "price": "45000",
+      "color": "Blue",
+      "catagory": "Mobile",
+      "description": "Samsung good product",
+      "image": "https://review-plus.com/wp-content/uploads/2023/07/Samsung-Galaxy-M45-Review-plus.jpg",
+      "id": 1
+    },
+    {
+      "name": "iPhone 15",
+      "price": "9000000",
+      "color": "Grey",
+      "catagory": "Mobile",
+      "description": "iPhone product",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/64e74ad803781abed13b0612/Apple--iPhone--iPhone-15--iPhone-15-Pro--iPhone-15-Pro-Max--iPhone-15-release--new/0x0.jpg?format=jpg&crop=1275,956,x113,y0,safe&width=1440",
+      "id": 2
+    },
+    {
+      "name": "iPhone 15",
+      "price": "9000000",
+      "color": "Grey",
+      "catagory": "Mobile",
+      "description": "iPhone product",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/64e74ad803781abed13b0612/Apple--iPhone--iPhone-15--iPhone-15-Pro--iPhone-15-Pro-Max--iPhone-15-release--new/0x0.jpg?format=jpg&crop=1275,956,x113,y0,safe&width=1440",
+      "id": 3
+    },
+    {
+      "name": "ReadMi",
+      "price": "50000",
+      "color": "Black",
+      "catagory": "Mobile",
+      "description": "An Android Product",
+      "image": "https://review-plus.com/wp-content/uploads/2023/07/Samsung-Galaxy-M45-Review-plus.jpg",
+      "id": 4
+    }
   ]
 }

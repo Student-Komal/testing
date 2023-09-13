@@ -1,8 +1,9 @@
-import { EventEmitter, Injectable } from '@angular/core';
+import { Component, EventEmitter, Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Login, SignUp } from '../data-type';
+import { Login, SignUp, product } from '../data-type';
 import { BehaviorSubject } from 'rxjs';
 import { Router } from '@angular/router';
+import { ProductService } from './product.service';
 @Injectable({
   providedIn: 'root'
 })
@@ -41,3 +42,4 @@ export class SellerService {
       })
   }
 }
+
