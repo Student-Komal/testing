@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Login, SignUp, product } from '../data-type';
 import { BehaviorSubject } from 'rxjs';
 import { Router } from '@angular/router';
-import { ProductService } from './product.service';
+
 @Injectable({
   providedIn: 'root'
 })

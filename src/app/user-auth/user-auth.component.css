@@ -1,0 +1,13 @@
+.user-auth h1{
+    color: blueviolet;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+.user-auth{
+    margin-bottom: 100px;
+}
+.common-form a{
+    color: blueviolet;
+    cursor: pointer;
+}

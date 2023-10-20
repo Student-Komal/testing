@@ -9,7 +9,7 @@ import { SignUp } from '../data-type';
   styleUrls: ['./seller-auth.component.css']
 })
 export class SellerAuthComponent {
-  constructor(private seller: SellerService, private route: Router) { }
+  constructor(private seller: SellerService) { }
   showLogin = false;
   authError: string = '';
 
